@@ -1,0 +1,109 @@
+COVERAGEENGINE — PRESENTER SCRIPT
+==================================
+
+Team: Beyond the Workflow
+Sunil Kumar, Ajmeera | Lakshmansamvith, Dunna | Prasanth, Varipireddi
+Theme: Productivity Reimagined
+
+
+BEFORE YOU START — 3 RULES
+---------------------------
+1. Never call this AI. No "model," "agent," "LLM," or "AI-powered." It's a
+   plugin — deterministic automation, not inference. No usage-based cost.
+2. Speak business, not QA. Say "verification" or "checks," never "test
+   cases" or "regression."
+3. The Benefits numbers are placeholders until you swap in real figures.
+   Say so if asked, or replace them before you present.
+
+
+SLIDE 1 — PROBLEM STATEMENT THEME
+----------------------------------
+SAY:
+"Our theme is Productivity Reimagined. We're addressing two things the
+business already knows are true: organizations don't have visibility into
+where productivity is leaking, and employees spend too much time on work
+that repeats itself, cycle after cycle. We're Beyond the Workflow, and
+today we're showing you a plugin that gets time back on one specific kind
+of repetitive work — verifying that an application still works correctly
+after every change."
+
+KEEP IT TO: 20-30 seconds. This sets context — don't explain the solution
+yet.
+
+
+SLIDE 2 — BUSINESS PROBLEM
+----------------------------
+SAY:
+"Today, confirming that an application still works after a change is a
+manual, repetitive task. That costs us in four ways.
+
+Cost — we pay skilled people to do the same verification work over and
+over, every release, with no new value the second time.
+
+Risk — with no record of what was actually checked, gaps go live
+undetected until a customer or an audit finds them.
+
+Delay — this can't scale with release frequency, so we either slow
+releases down or ship without full confidence.
+
+Trust — there's no single report leadership can open and believe.
+Coverage claims today are anecdotal, not evidence."
+
+TIP: Pause after each word (Cost, Risk, Delay, Trust) — let the audience
+read before you elaborate.
+
+
+SLIDE 3 — BUSINESS SOLUTION
+------------------------------
+SAY:
+"Here's what we built. It's a plugin — a lightweight add-on, not a
+separate system to manage. It sits alongside the application and watches
+what gets checked. Alongside it, we built reusable automation scripts
+that run those same checks on their own — no one clicking through the
+application by hand. The two sync automatically: the plugin knows what
+should be covered, the scripts run the checks, and the two combine into
+one number — what's covered, what's not, what passed, what failed. One
+report is generated automatically at the end. Nothing to assemble by
+hand."
+
+IF ASKED "IS THIS AI?":
+"No — this is rule-based automation and a browser extension. No model
+making judgment calls. Same input, same result every time. No usage cost
+to run it."
+
+
+SLIDE 4 — BUSINESS BENEFITS
+------------------------------
+SAY:
+"Manual verification time drops sharply, because scripts do it instead of
+a person clicking through pages. Every page gets checked, every run —
+nothing forgotten, nothing skipped. That frees up real hours every
+release cycle. This isn't a headcount story — it's a reinvestment story:
+the same team can now put that time into testing other applications we
+haven't automated yet. And because this is a plugin — not a subscription
+AI model, not a per-use agent — there's no ongoing cost once it's built.
+It scales to any application at effectively zero marginal cost."
+
+HIGH-LEVEL TAKEAWAYS TO HIT:
+- Productivity gain — time freed for higher-value work
+- Cost avoidance — no licensing, subscription, or per-run charges
+- Coverage completeness — automation doesn't get tired or skip steps
+- Reusability — the same pattern extends to other applications; the
+  investment compounds
+
+
+SLIDE 5 — THANK YOU
+----------------------
+SAY:
+"Thank you. We're Beyond the Workflow — happy to take any questions,
+including where you think this could go next."
+
+BE READY FOR:
+- What applications could this extend to first?
+  -> Name 1-2 concrete candidates.
+- What does setup take on a new application?
+  -> "Point it at the application and define what should be covered" —
+     don't go into config details unless asked.
+- Any ongoing cost?
+  -> "No. It's ours to run — no subscription, no token, no per-request
+     charge."
